@@ -160,7 +160,7 @@
 			"patterns": [
 				{
 					"name": "entity.name.method.lsp",
-					"match": "(?<!\\.)(?i)\\b(NumRegraEvento|EventoAntesDeInserir|EventoAposInserir|EventoAntesDeAlterar|EventoAposAlterar|EventoAntesDeExcluir|EventoAposExcluir|EventoAoAbrirATela|EventoAoSairDaTela|Formulario|AbaAtiva|DescAbaAtiva)\\b"
+					"match": "(?<!\\.)(?i)\\b(Mensagem|NumRegraEvento|EventoAntesDeInserir|EventoAposInserir|EventoAntesDeAlterar|EventoAposAlterar|EventoAntesDeExcluir|EventoAposExcluir|EventoAoAbrirATela|EventoAoSairDaTela|Formulario|AbaAtiva|DescAbaAtiva)\\b"
 				},
 				{
 					"name": "invalid.deprecated.lsp",
