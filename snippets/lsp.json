@@ -1,4 +1,14 @@
 {
+  "bloco de comentários": {
+    "prefix": "/*",
+    "body": [
+      "/*",
+        "\t$2",
+      "*/"
+    ],
+    "description": "bloco de comentários"
+  },
+  
   "inicio": {
     "prefix": "inicio",
     "body": [
