@@ -52,7 +52,7 @@
 				},
 				{
 					"name": "keyword.control.lsp",
-					"match": "(?<!\\.)(?i)\\b(Abrir|Alfa|Atualizar|Cancel|Continue|Cursor|Data|Definir|DesfazerTransacao|E|End|Enquanto|ExecSQL|ExecSQLEx|Fechar|Fim|FinalizarTransacao|Formatar|Funcao|Gravar|Gravarnl|IniciarTransacao|Inicio|Inserir|Ler|Lernl|Mensagem|Numero|Ou|Para|Pare|Regra|Se|Senao|Tabela|ValRet|ValStr|VaPara)\\b"
+					"match": "(?<!\\.)(?i)\\b(Abrir|Alfa|Atualizar|Cancel|Continue|Cursor|Data|Definir|DesfazerTransacao|E|End|Enquanto|ExecSQL|ExecSQLEx|Fechar|Fim|FinalizarTransacao|Formatar|Funcao|Gravar|Gravarnl|IniciarTransacao|Inicio|Inserir|Ler|Lernl|Numero|Ou|Para|Pare|Regra|Se|Senao|Tabela|ValRet|ValStr|VaPara)\\b"
 				},
 				{
 					"name": "keyword.control.lsp",
@@ -160,7 +160,7 @@
 			"patterns": [
 				{
 					"name": "entity.name.method.lsp",
-					"match": "(?<!\\.)(?i)\\b(NumRegraEvento|EventoAntesDeInserir|EventoAposInserir|EventoAntesDeAlterar|EventoAposAlterar|EventoAntesDeExcluir|EventoAposExcluir|EventoAoAbrirATela|EventoAoSairDaTela|Formulario|AbaAtiva|DescAbaAtiva)\\b"
+					"match": "(?<!\\.)(?i)\\b(Mensagem|NumRegraEvento|EventoAntesDeInserir|EventoAposInserir|EventoAntesDeAlterar|EventoAposAlterar|EventoAntesDeExcluir|EventoAposExcluir|EventoAoAbrirATela|EventoAoSairDaTela|Formulario|AbaAtiva|DescAbaAtiva)\\b"
 				},
 				{
 					"name": "invalid.deprecated.lsp",
@@ -232,7 +232,7 @@
 				},
 				{
 					"name": "entity.name.function.lsp",
-					"match": "(?<!\\.)(?i)\\b(AlfaParaInt|ArqExiste|AtualizaBarraProgresso|CaracterParaAlfa|CodData|ConverteCodificacaoString|ConverteMascara|ConverteParaMaiusculo|ConverteParaMinusculo|ConverteTexto|CopiarAlfa|CriarArquivoTemporario|DataHoje|DataHora|DecodData|DeletarAlfa|Desencriptar|Dividir|Encriptar|ExcluirArquivoTemporario|ExecProg|FinalizaBarraProgresso|FormatarData|GeraHash|GerarNonce|GerarPwdDigest|GeraSenha|GeraToken|HoraParaMinuto|IniciaBarraProgresso|IntParaAlfa|LerPosicaoAlfa|LinhasArquivo|ListaItem|ListaQuantidade|Mensagem|ObtemIdiomaAtivo|ObterVersaoSistema|OcultaBarraProgressoRelatorio|PosicaoAlfa|RemoveExpressoesProibidas|RestoDivisao|RetornaValorCFG|TamanhoAlfa|TrocaString|Truncar|VerificaAbaAtiva|VrfAbrA|VrfAbrN)\\b"
+					"match": "(?<!\\.)(?i)\\b(AlfaParaInt|ArqExiste|AtualizaBarraProgresso|CaracterParaAlfa|CodData|ConverteCodificacaoString|ConverteMascara|ConverteParaMaiusculo|ConverteParaMinusculo|ConverteTexto|CopiarAlfa|CriarArquivoTemporario|DataHoje|DataHora|DecodData|DeletarAlfa|Desencriptar|Dividir|Encriptar|ExcluirArquivoTemporario|ExecProg|FinalizaBarraProgresso|FormatarData|GeraHash|GerarNonce|GerarPwdDigest|GeraSenha|GeraToken|HoraParaMinuto|IniciaBarraProgresso|IntParaAlfa|LerPosicaoAlfa|LinhasArquivo|ListaItem|ListaQuantidade|ObtemIdiomaAtivo|ObterVersaoSistema|OcultaBarraProgressoRelatorio|PosicaoAlfa|RemoveExpressoesProibidas|RestoDivisao|RetornaValorCFG|TamanhoAlfa|TrocaString|Truncar|VerificaAbaAtiva|VrfAbrA|VrfAbrN)\\b"
 				},
 				{
 					"name": "entity.name.function.lsp",
